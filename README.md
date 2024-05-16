@@ -1,6 +1,6 @@
 # AKA FINAL 
 ---
-### : 배포
+### 배포
 +  배포 도메인 주소   <http://gdj75.shop>
 +  아이디 : hire1234 / 비밀번호 : 11
 
@@ -27,7 +27,7 @@
 +   OS : Windows10 MacOS
 +   Document : Google Drive  KakaoOven ERDCloud 
 +   Libray&API : Spring Security Validation tosspayments chart.js
-+   Lomnbok FullCalender KakaoLogin WebClient JsonSimple JsonJackson
++   Lombok FullCalender KakaoLogin WebClient JsonSimple JsonJackson
 
 ---
 
