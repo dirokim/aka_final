@@ -25,9 +25,9 @@
 +   DATA BASE : AWS Docker MariaDB
 +   SERVER : Tomcat(v9.0)
 +   OS : Windows10 MacOS
-+   Document : Google Drive  KakaoOven ERDCloud
-+   Libray&API : Spring Security Validation MailSender FileUpload
-+   Lomnbok Full Calender KakaoLogin WebClient JsonSimple JsonJackson
++   Document : Google Drive  KakaoOven ERDCloud 
++   Libray&API : Spring Security Validation tosspayments chart.js
++   Lomnbok FullCalender KakaoLogin WebClient JsonSimple JsonJackson
 
 ---
 
